@@ -1,7 +1,7 @@
 # 📄 Real-Time Collaborative Editor
 
-A full-stack **Real-Time Collaborative Text Editor** built using the MERN stack.  
-Multiple users can edit the same document simultaneously with live updates.
+- A full-stack **Real-Time Collaborative Text Editor** built using the MERN stack.  
+- Multiple users can edit the same document simultaneously with live updates.
 
 ## 🚀 Features
 
@@ -99,6 +99,6 @@ http://localhost:5173
 
 ## ✅ Conclusion
 
-The Real-Time Collaborative Editor successfully demonstrates the implementation of a full-stack web application using the MERN stack. The project enables multiple users to edit the same document simultaneously with live synchronization powered by Socket.io.
-By integrating MongoDB for persistent storage, the application ensures that document data is securely saved and retrievable even after refresh or server restart. The project highlights key concepts such as real-time communication, REST API integration, database management, and modern UI development using React.
-This project provided hands-on experience in building scalable, real-world applications and understanding how collaborative platforms like Google Docs function internally. It serves as a strong foundation for developing advanced features such as authentication, version control, and AI-assisted editing in the future.
+- The Real-Time Collaborative Editor successfully demonstrates the implementation of a full-stack web application using the MERN stack. The project enables multiple users to edit the same document simultaneously with live synchronization powered by Socket.io.
+- By integrating MongoDB for persistent storage, the application ensures that document data is securely saved and retrievable even after refresh or server restart. The project highlights key concepts such as real-time communication, REST API integration, database management, and modern UI development using React.
+- This project provided hands-on experience in building scalable, real-world applications and understanding how collaborative platforms like Google Docs function internally. It serves as a strong foundation for developing advanced features such as authentication, version control, and AI-assisted editing in the future.
