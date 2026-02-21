@@ -13,8 +13,6 @@ Multiple users can edit the same document simultaneously with live updates.
 - 🎨 Modern responsive UI
 - 🔄 Live updates using Socket.io
 
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -29,19 +27,6 @@ Multiple users can edit the same document simultaneously with live updates.
 - Socket.io
 - MongoDB (Mongoose)
 
----
-
-## 📂 Project Structure
-
-```
-collab-editor/
-│
-├── frontend/   (React + Vite)
-├── backend/    (Node + Express + MongoDB)
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -50,8 +35,6 @@ collab-editor/
 git clone https://github.com/your-username/collab-editor.git
 cd collab-editor
 ```
-
----
 
 ### 2️⃣ Setup Backend
 
@@ -73,8 +56,6 @@ Run backend:
 node server.js
 ```
 
----
-
 ### 3️⃣ Setup Frontend
 
 ```bash
@@ -89,8 +70,6 @@ Open in browser:
 http://localhost:5173
 ```
 
----
-
 ## 🔗 How It Works
 
 1. A new document is created and stored in MongoDB.
@@ -98,16 +77,12 @@ http://localhost:5173
 3. Socket.io enables real-time content sharing.
 4. Changes are saved in MongoDB for persistence.
 
----
-
 ## 🧠 Learning Outcomes
 
 - Real-time communication with WebSockets
 - Database integration with MongoDB
 - Full-stack MERN application development
 - State synchronization across multiple clients
-
----
 
 ## 📸 Demo
 
